@@ -6,6 +6,11 @@
 
 1. OBJETIVOS
 
+
+-Estudiar y aplicar las conversiones del Sistema Internacional de Unidades y utilizarlas incluso para comprobar las mismas.
+
+
+
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
 El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
 
@@ -24,7 +29,21 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
+
+
 2. MARCO TEÓRICO (RESUMEN)
+
+Actualmente se conocen una enorme cantidad de unidades de medida para cada magnitud física. Esto se debe a que, por un lado, determinadas regiones han tenido unidades de medida propias, lo que ha dado lugar a un gran número de ellas. Por otro lado, esta gran variedad se da gracias a que en ocasiones es necesario utilizar unidades que permitan obtener valores mas pequeños o mas grandes, con el fin de reducir la cantidad de numeros a escribir y de este modo facilitar el trabajo.
+
+Sin embargo, en 1960 se creó el SI (Sistema Internacional de Unidades) por la 11.ª Conferencia General de Pesas y Medidas, en la que se reconocieron inicialmente 6 unidades físicas básicas, agregando posteriormente unidades como el mol. Desde entonces, la comunidad científica ha recomendado utilizar únicamente las unidades del SI y si las magnitudes con las que se trabaja no se encuentran en este sistema, normalmente se deberá convertirlas a un valor equivalente. 
+
+A continuación se muestran algunas tablas con los valores de conversión de las unidades más utilizadas:
+![Tabla_conversiones](https://user-images.githubusercontent.com/84453557/120260937-7cb5c880-c25c-11eb-9772-fc310b90c81a.png)
+
+
+
+
+
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
